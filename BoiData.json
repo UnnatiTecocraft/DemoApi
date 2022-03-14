@@ -1,22 +1,82 @@
 [
     {
-        "name":"unnati",
-        "age":30
+        "userId": 1,
+        "id": "1",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
     },
     {
-        "name":"unnati",
-        "age":30
+        "userId": 2,
+        "id": "2",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
     },
     {
-        "name":"unnati",
-        "age":30
+        "userId": 3,
+        "id": "3",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
     },
     {
-        "name":"unnati",
-        "age":30
+        "userId": 4,
+        "id": "4",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
     },
     {
-        "name":"unnati",
-        "age":30
+        "userId": 5,
+        "id": "5",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
+    },
+    {
+        "userId": 6,
+        "id": "6",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
+    },
+    {
+        "userId": 7,
+        "id": "7",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
+    },
+    {
+        "userId": 8,
+        "id": "8",
+        "name": "Unnati Shah",
+        "email": "unnati@gmail.com",
+        "website": "https://unnatitecocraft.github.io/DemoApi",
+        "mobile": "1234567890",
+        "image": "https://www.pexels.com/photo/woman-with-short-hair-smiling-6684835/",
+        "description": "Hello, I am Unnati Shah"
     }
 ]
