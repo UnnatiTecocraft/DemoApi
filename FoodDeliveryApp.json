@@ -73,7 +73,7 @@
                 "longitude": 110.35632207358996
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar1",
                 "name": "Amy"
             },
             "menu": [
@@ -116,7 +116,7 @@
                 "longitude": 110.35504616746915
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar2",
                 "name": "Jackson"
             },
             "menu": [
@@ -167,7 +167,7 @@
                 "longitude": 110.34261833833622
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar3",
                 "name": "James"
             },
             "menu": [
@@ -194,7 +194,7 @@
                 "longitude": 110.35482523764315
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar4",
                 "name": "Ahmad"
             },
             "menu": [
@@ -221,7 +221,7 @@
                 "longitude": 110.34743759630511
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar5",
                 "name": "Muthu"
             },
             "menu": [
@@ -272,7 +272,7 @@
                 "longitude": 110.35568783282145
             },
             "courier": {
-                "avatar": "images.",
+                "avatar": "images/avatar1",
                 "name": "Jessie"
             },
             "menu": [
