@@ -5,7 +5,7 @@
         "price": 20,
         "color": "Black",
         "background": "#b2bec3",
-        "image": "products_images/BlackT-Shirt.png",
+        "image": "../../assets/images/BlackT-Shirt.png",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     },
     {
@@ -14,7 +14,7 @@
         "price": 30,
         "color": "red",
         "background": "#fab1a0",
-        "image": "products_images/RedSweater.png",
+        "image": "../../assets/images/RedSweater.png",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     },
     {
@@ -23,7 +23,7 @@
         "price": 30,
         "color": "Pink",
         "background": "#ffcccc",
-        "image": "products_images/PinkSweater.png",
+        "image": "../../assets/images/PinkSweater.png",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     },
 
@@ -33,7 +33,7 @@
         "price": 40,
         "color": "Grey",
         "background": "#dfe6e9",
-        "image": "products_images/GrayTrousers.pn",
+        "image": "../../assets/images/GrayTrousers.pn",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     },
     {
@@ -42,7 +42,7 @@
         "price": 20,
         "color": "Pink",
         "background": "#ffcccc",
-        "image": "products_images/PinkT-Shirt.png",
+        "image": "../../assets/images/PinkT-Shirt.png",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     },
     {
@@ -51,7 +51,7 @@
         "price": 40,
         "color": "red",
         "background": "#ffb8b8",
-        "image": "products_images/RedTrousers.png",
+        "image": "../../assets/images/RedTrousers.png",
         "description": "Organic Cotton Sweater to celebrate the beauty of marine ecosystems."
     }
 ]
